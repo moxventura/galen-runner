@@ -1,2 +1,2 @@
 # galen-runner
-Runner for tests in the galen framework
+Runner for tests in the [galen framework](http://galenframework.com/)
